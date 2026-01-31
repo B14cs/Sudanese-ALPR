@@ -1,4 +1,4 @@
-# Sudanese-ALPR 🇸🇩🚗🔎
+# Sudanese-ALPR
 
 A multi-stage **Automatic License Plate Recognition (ALPR)** project tailored for **Sudanese license plates**.
 
